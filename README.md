@@ -1,8 +1,8 @@
 # imagen
 
-Imagen is a repo containing my implementations of deep learning papers that I found relevant in order to better understand how state of the art image generation models work.
+imagen is a repo containing my implementations of deep learning papers that I found relevant in order to better understand how state of the art (sota) diffusion models work.
 
-#### an (evolving) list of papers in somewhat chronological order
+#### list of papers (wip):
 - gan (goodfellow, 2014): https://arxiv.org/abs/1406.2661
 - vae (kingma, 2013): https://arxiv.org/abs/1312.6114
 - transformers (vaswani, 2017): https://arxiv.org/abs/1706.03762
