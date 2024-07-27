@@ -9,11 +9,12 @@ imagen is a repo containing my implementations of deep learning papers that I fo
 - transformers (vaswani, 2017): https://arxiv.org/abs/1706.03762
 - denoising diffusion probabilistic models (ho, 2020): https://arxiv.org/abs/2006.11239
 - denoising diffusion implicit models (song, 2020): https://arxiv.org/abs/2010.02502
-- vision transformers (dosovitskiy,2020): https://arxiv.org/abs/2010.11929
+- vision transformers (dosovitskiy, 2020): https://arxiv.org/abs/2010.11929
 - dalle model (openai, 2021): https://arxiv.org/abs/2102.12092
 - clip model (openai, 2021): https://arxiv.org/abs/2103.00020
 - clip for image gen (openai, 2022): https://arxiv.org/abs/2204.06125
 - latent diffusion models (rombach, 2022): https://arxiv.org/abs/2112.10752
+- diffusion transformers (peebles, 2022): https://arxiv.org/abs/2212.09748
 - sdxl model (stabilityai, 2023): https://arxiv.org/abs/2307.01952
 - latent consistency models (luo, 2023): https://arxiv.org/abs/2310.04378
 - lcm lora (luo, 2023): https://arxiv.org/abs/2311.05556
